@@ -5,15 +5,13 @@ The Human Screaming Detection Dataset is a specialized collection focusing solel
 
 <br> <br>
 
-## Project Contributors
+**Dataset :** The dataset utilized in this analysis was sourced from Kaggle. The link to access the dataset is provided: [Kaggle Dataset](https://www.kaggle.com/datasets/whats2000/human-screaming-detection-dataset/data)  
+<br>
+**Noise Dataset :** The noise dataset utilized in this project for data augmentation was obtained from a specialized sound engineer.  <br>
+
+#### Project Contributors
 
 | Name           | Registration Number                | GitHub Profile                              |
 |----------------|---------------------|---------------------------------------------|
 | Aikaterini Karathanou       | 2022202304009     | [kathrinka](https://github.com/kathrinka)     |
 | Anastasia Drakou     | 2022202304006      | [anadrakou](https://github.com/anadrakou) |
-<br> <br>
-
-**Dataset :** The dataset utilized in this analysis was sourced from Kaggle. The link to access the dataset is provided: [Kaggle Dataset](https://www.kaggle.com/datasets/whats2000/human-screaming-detection-dataset/data)  
-<br>
-**Noise Dataset :** The noise dataset utilized in this project for data augmentation was obtained from a specialized sound engineer.  <br>
-
