@@ -5,6 +5,15 @@ The Human Screaming Detection Dataset is a specialized collection focusing solel
 
 <br> <br>
 
+This project uses the following technologies:
+
+- [TensorFlow](https://www.tensorflow.org/): An open-source machine learning framework.
+- [Librosa](https://librosa.org/): A python package for music and audio analysis.
+- [Python 3](https://www.python.org/): The programming language used for this project.
+- [Matplotlib](https://matplotlib.org/): A plotting library for the Python programming language.
+
+<br> <br>
+
 **Dataset :** The dataset utilized in this analysis was sourced from Kaggle. The link to access the dataset is provided: [Kaggle Dataset](https://www.kaggle.com/datasets/whats2000/human-screaming-detection-dataset/data)  
 <br>
 **Noise Dataset :** The noise dataset utilized in this project for data augmentation was obtained from a specialized sound engineer.  <br>
