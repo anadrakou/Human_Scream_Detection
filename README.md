@@ -3,7 +3,6 @@
 <img src="https://www.britishmuseum.org/sites/default/files/styles/uncropped_small/public/Edvard-Munch-The-Scream-Final-735x1024.jpg?itok=dKfpfxjn" alt="Project Logo" align="right" style="margin-left: 20px; width: 25%;">
 The Human Screaming Detection Dataset is a specialized collection focusing solely on identifying and analyzing human screams. This dataset is invaluable for developing machine learning models in critical areas such as security, healthcare, and emergency response. In today's world, where timely intervention can save lives, the ability to detect screams efficiently is paramount. For instance, in security, rapid scream detection can alert authorities to potential assaults or emergencies, enabling faster response times. In addition to traditional video surveillance, various audio processing techniques can also be added to existing CCTV cameras. These enhancements serve as additional features to help analyze the scene better and autonomously detect violence or any unwanted activity. In healthcare, scream detection can be used to monitor patients in distress, particularly in scenarios where immediate human intervention might not be feasible. Overall, the dataset plays a crucial role in advancing technologies that enhance safety and provide timely assistance in urgent situations. <br>
 The goal of this project is to develop and optimize deep learning models for human scream detection. By experimenting with various architectures and techniques, we aim to identify the most effective model for accurately detecting screams. This involves training, validating, and testing models on relevant datasets to ensure robustness and reliability. Ultimately, the objective is to enhance real-world applications such as security and emergency response systems by integrating the best-performing model into these frameworks.
-
 <br>
 
 ### Table of Contents
@@ -13,9 +12,22 @@ The goal of this project is to develop and optimize deep learning models for hum
 - [Project Contributors](#project-contributors)
 - [Contact Information](#contact-information)
 - [Acknowledgements](#acknowledgements)
-
+<br>
   
 ### Files of the Project
+- Load_and_Preprocess_EDA.ipynb
+- EDA.ipynb
+- Load_and_Preprocess.ipynb
+- SVM.ipynb
+- FNN.ipynb
+- CNN.ipynb
+- CNN_Regularization.ipynb
+- CNN_f1_score_callbacks
+- ResNet
+- Deploy_Load_and_Preprocess
+- Deploy_Resnet
+- Results_and_Conclusions.ipynb
+<br>
 
 ### Libraries and Dependencies
 - **`tensorFlow`**: An open-source machine learning framework.
