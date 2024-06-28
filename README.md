@@ -15,17 +15,17 @@
 <br>
   
 ### Files of the Project
-- Load_and_Preprocess_EDA.ipynb : Load and preprocess our audio data into 17 features for EDA.
-- Load_and_Preprocess.ipynb : Load and Preprocess of our audio data into 128 me spectograms
-- SVM.ipynb : A machine learning algorithm, SVM, will be used as a baseline to compare the metrics with deep learning models
-- FNN.ipynb : Fully Connected Neural Network
-- CNN.ipynb : Convolutional Neural Network
-- CNN_Regularization.ipynb : Convolutional Neural Network with Regularizations
-- CNN_f1_score_callbacks.ipynb : Convolutional Neural Network woth F1 score in callbacks
-- ResNet.ipynb : Transfer learning model
-- Deploy_Load_and_Preprocess.ipynb : Load and Preprocess of the deployment dataset
-- Deploy_Resnet.ipynb : Running a transfer learning model to the deployment dataset
-- report.ipynb : Results, insights and conclusions of our project
+- `Load_and_Preprocess_EDA.ipynb` : Load and preprocess our audio data into 17 features for EDA.
+- `Load_and_Preprocess.ipynb` : Load and Preprocess of our audio data into 128 me spectograms
+- `SVM.ipynb` : A machine learning algorithm, SVM, will be used as a baseline to compare the metrics with deep learning models
+- `FNN.ipynb` : Fully Connected Neural Network
+- `CNN.ipynb` : Convolutional Neural Network
+- `CNN_Regularization.ipynb` : Convolutional Neural Network with Regularizations
+- `CNN_f1_score_callbacks.ipynb` : Convolutional Neural Network woth F1 score in callbacks
+- `ResNet.ipynb` : Transfer learning model
+- `Deploy_Load_and_Preprocess.ipynb` : Load and Preprocess of the deployment dataset
+- `Deploy_Resnet.ipynb` : Running a transfer learning model to the deployment dataset
+- `report.ipynb` : Results, insights and conclusions of our project
 <br>
 
 ### Libraries and Dependencies
