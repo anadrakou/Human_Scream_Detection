@@ -54,7 +54,7 @@
 | Anastasia Drakou     | 2022202304006      | [anadrakou](https://github.com/anadrakou) |
 
 ### Contact Information
-If you have any questions or suggestions, feel free to contact us at adrakou@hotmail.com and katerinakarathanou26@gmail.com.
+If you have any questions or suggestions, feel free to contact us at a.drakou@hotmail.com and katerinakarathanou26@gmail.com.
 
 ### Acknowledgements
 - [TensorFlow](https://www.tensorflow.org/): An open-source machine learning framework.
