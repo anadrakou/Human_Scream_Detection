@@ -16,6 +16,7 @@
   
 ### Files of the Project
 - `Load_and_Preprocess_EDA.ipynb` : Load and preprocess our audio data into 17 features for EDA.
+- `EDA.ipynb` : Exploratory Data Analysis of our main dataset.
 - `Load_and_Preprocess.ipynb` : Load and Preprocess of our audio data into 128 me spectograms
 - `SVM.ipynb` : A machine learning algorithm, SVM, will be used as a baseline to compare the metrics with deep learning models
 - `FNN.ipynb` : Fully Connected Neural Network
