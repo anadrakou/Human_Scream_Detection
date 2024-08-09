@@ -50,8 +50,8 @@
 
 | Name           | Registration Number                | GitHub Profile                              |
 |----------------|---------------------|---------------------------------------------|
-| Aikaterini Karathanou       | 2022202304009     | [kathrinka](https://github.com/kathrinka)     |
 | Anastasia Drakou     | 2022202304006      | [anadrakou](https://github.com/anadrakou) |
+| Aikaterini Karathanou       | 2022202304009     | [kathrinka](https://github.com/kathrinka)     |
 
 ### Contact Information
 If you have any questions or suggestions, feel free to contact us at a.drakou@hotmail.com and katerinakarathanou26@gmail.com.
