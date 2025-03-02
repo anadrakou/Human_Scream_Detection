@@ -26,7 +26,7 @@
 - `ResNet.ipynb` : Transfer learning model
 - `Deploy_Load_and_Preprocess.ipynb` : Load and Preprocess of the deployment dataset
 - `Deploy_Resnet.ipynb` : Running a transfer learning model to the deployment dataset
-- `report.ipynb` : Results, insights and conclusions of our project
+- `Report.pdf` : Results, insights and conclusions of our project
 <br>
 
 ### Libraries and Dependencies
